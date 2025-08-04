@@ -38,8 +38,8 @@
 
 📫 **Let's Connect**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://linkedin.com/in/pradipmula)  
-📧 Email: pradipmula@email.com *(Update this)*  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/pradip-mula-7209b4215/)  
+📧 Email: pradipmula2411@gmail.com *(Update this)*  
 🌐 Portfolio: [Coming Soon]  
 📁 Resume: [Add link to PDF or Google Drive]
 
